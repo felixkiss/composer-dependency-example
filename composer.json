@@ -1,0 +1,13 @@
+{
+    "name": "felixkiss/dependency-example",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Felix Kiss",
+            "email": "felix@felixkiss.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    }
+}
